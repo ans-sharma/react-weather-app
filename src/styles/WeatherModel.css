@@ -1,0 +1,36 @@
+.center {
+    text-align: center;
+}
+
+.main {
+    display: block;
+    font-size: 3rem;
+    /* padding: 1rem; */
+}
+
+.icon {
+    font-size: 8rem;
+    /* color: ; */
+}
+
+.temp {
+    font-size: 3rem;
+}
+
+.Temp {
+    font-size: 1.5rem;
+    display: inline-flex;
+    /* padding: 0; */
+}
+
+.minTemp {
+  margin-right: 4rem;
+}
+
+.maxTemp {
+    margin-left: 4rem;
+}
+
+.desc {
+    font-size: 1.5rem;
+}
