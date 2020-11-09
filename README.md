@@ -1,4 +1,4 @@
-![alt text](src\screenshots\SharedScreenshot.jpg)
+![alt text](https://github.com/ans-sharma/react-weather-app/blob/master/src/screenshots/SharedScreenshot.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
